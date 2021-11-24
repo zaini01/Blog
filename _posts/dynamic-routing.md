@@ -4,8 +4,8 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities
   morbi tempus.
-coverImage: https://wallpaperaccess.com/full/111443.jpg
-date: 2021-11-23T17:00:00Z
+coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+date: 2021-11-23T17:00:00.000+00:00
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
