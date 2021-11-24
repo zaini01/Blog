@@ -4,11 +4,11 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities
   morbi tempus.
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+coverImage: "/assets/blog/cover.jpg"
 date: 2021-11-23T17:00:00.000+00:00
 author:
   name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  picture: "/assets/blog/jj.jpeg"
 ogImage:
   url: https://m.media-amazon.com/images/I/714DNcbWu+L._SL1400_.jpg
 
