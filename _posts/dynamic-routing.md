@@ -4,7 +4,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities
   morbi tempus.
-coverImage: https://m.media-amazon.com/images/I/714DNcbWu+L._SL1400_.jpg
+coverImage: https://wallpaperaccess.com/full/111443.jpg
 date: 2020-03-16T05:35:07Z
 author:
   name: JJ Kasper
