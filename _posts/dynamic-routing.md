@@ -4,8 +4,8 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
   fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities
   morbi tempus.
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: 2020-03-16T05:35:07.322+00:00
+coverImage: https://2.bp.blogspot.com/-7ZGcXZRPLHY/VgK10P_Ew_I/AAAAAAAARvk/nk4dAP6C6A8/s1600/Encartes%2B%25283%2529.jpg
+date: 2020-03-16T05:35:07Z
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
