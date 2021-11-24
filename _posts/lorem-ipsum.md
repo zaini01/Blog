@@ -5,7 +5,7 @@ excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
   leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla
   facilities morbi tempus. '
 coverImage: ''
-date: 
+date: 2020-03-16T05:35:00Z
 author:
   name: ''
   picture: ''
